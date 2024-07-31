@@ -1,2 +1,5 @@
-# google-outlook-calendar-sync
-Application for google calendar and outlook calendar sync
+## About The Project
+
+### Built With
+
+- [React.js](https://reactjs.org/)
